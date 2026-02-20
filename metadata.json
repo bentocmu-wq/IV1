@@ -1,0 +1,7 @@
+{
+  "name": "Remix: IV Guardian AI",
+  "description": "Expert Infusion Nurse Specialist AI for analyzing IV insertion sites and detecting complications according to INS standards.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
